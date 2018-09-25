@@ -12,7 +12,7 @@ package HCF;
 public class HCFTest {
     public static void main(String[] args) {
         
-        System.out.println("The HCF of 24 and 30 is "+hcf(24,36));
+        System.out.println("The HCF of 24 and 36 is "+hcf(24,36));
     }
     
   public static int hcf(int x, int y){
