@@ -1,6 +1,6 @@
 /*
   This code find and print the Highest Common Factor of two numbers.
-  E.g the LCM of 24 and 30 is 6.
+  E.g the LCM of 24 and 36 is 12.
 */
 package HCF;
 
@@ -12,7 +12,7 @@ package HCF;
 public class HCFTest {
     public static void main(String[] args) {
         
-        System.out.println("The HCF of 24 and 30 is "+hcf(24,30));
+        System.out.println("The HCF of 24 and 30 is "+hcf(24,36));
     }
     
   public static int hcf(int x, int y){
